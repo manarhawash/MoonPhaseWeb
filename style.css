@@ -1,0 +1,5 @@
+body { background:#001022; color:#eef; font-family:sans-serif; text-align:center; padding:20px; }
+h1 { margin-bottom:8px }
+.moon-container { display:inline-block; margin-top:20px; }
+#phaseSlider { width:60%; }
+#phaseLabel { display:block; margin-top:8px; font-weight:bold; }
